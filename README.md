@@ -14,9 +14,10 @@
 
 ## 🔭 I’m currently working on:
 <div style="display: inline_block"><br>
-  <p><img align="center" alt="Ivanildo-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><strong>ReactJS</strong></p>
-  <p><img align="center" alt="Ivanildo-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><strong>TypeScript</strong></p>
-  <p><img align="center" alt="Ivanildo-powerbi" height="45" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"><strong>PowerBI</strong></p>
+<img align="center" alt="Ivanildo-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><strong>ReactJS</strong>  
+<img align="center" alt="Ivanildo-next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"><strong>Next</strong> 
+<img align="center" alt="Ivanildo-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><strong>TypeScript</strong>
+<img align="center" alt="Ivanildo-powerbi" height="45" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"><strong>PowerBI</strong>
 </div>
 
 ##
@@ -25,7 +26,7 @@
 <div style="display: inline_block"><br>
   <p><img align="center" alt="Ivanildo-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><strong>Python</strong></p>
   <p>🤖 <strong>Artificial Intelligence</strong></p>
-  <p>👁 <stong>Artificial Intelligence</stong></p>  
+  <p>👁 <stong>Computer Vision</stong></p>  
   <p>🎲 <stong>Big Data</stong></p>
 </div>
 
