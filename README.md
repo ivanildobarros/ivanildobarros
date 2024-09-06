@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Ivanildo Barros 👋
 
-<!--
-**ivanildobarros/ivanildobarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Fun fact:
+<div>
+<p>💻 Graduate in Information Systems</p>
+<p>📊 MBA in Technology for Business: AI, Data Science, and Big Data</p>
+<p>🎓 Master's student in Computer Science</p>
+<p>👨‍💻 Systems Developer</p>
 
-Here are some ideas to get you started:
+<p>In constant evolution and always seeking progress!! 🚀📈</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+## 🔭 I’m currently working on:
+<div style="display: inline_block"><br>
+  <p><img align="center" alt="Ivanildo-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><strong>ReactJS</strong></p>
+  <p><img align="center" alt="Ivanildo-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><strong>TypeScript</strong></p>
+  <p><img align="center" alt="Ivanildo-powerbi" height="45" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"><strong>PowerBI</strong></p>
+</div>
+
+##
+
+## 🌱 I’m an enthusiast in:
+<div style="display: inline_block"><br>
+  <p><img align="center" alt="Ivanildo-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><strong>Python</strong></p>
+  <p>🤖 <strong>Artificial Intelligence</strong></p>
+  <p>👁 <stong>Artificial Intelligence</stong></p>  
+  <p>🎲 <stong>Big Data</stong></p>
+</div>
+
+##
+
+## 📫 How to reach me:
+<div> 
+  <a href="https://www.linkedin.com/in/ivanildo-barros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
