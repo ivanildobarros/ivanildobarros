@@ -26,8 +26,8 @@
 <div style="display: inline_block"><br>
   <p><img align="center" alt="Ivanildo-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><strong>Python</strong></p>
   <p>🤖 <strong>Artificial Intelligence</strong></p>
-  <p>👁 <stong>Computer Vision</stong></p>  
-  <p>🎲 <stong>Big Data</stong></p>
+  <p>👁 <strong>Computer Vision</strong></p>  
+  <p>🎲 <strong>Big Data</strong></p>
 </div>
 
 ##
