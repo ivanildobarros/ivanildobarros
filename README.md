@@ -17,6 +17,7 @@
 <img align="center" alt="Ivanildo-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><strong>ReactJS</strong>  
 <img align="center" alt="Ivanildo-next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"><strong>Next</strong> 
 <img align="center" alt="Ivanildo-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><strong>TypeScript</strong>
+<img align="center" alt="Ivanildo-node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"><strong>NodeJS</strong>
 <img align="center" alt="Ivanildo-powerbi" height="45" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"><strong>PowerBI</strong>
 </div>
 
